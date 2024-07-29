@@ -48,7 +48,7 @@ An accident detection system aims to enhance the safety of transportation by det
 **8. **Environmental Impact**: By detecting gas leaks early, the system helps prevent environmental contamination and reduces the risk of fires or explosions that could have severe environmental consequences.
 
 
-# This is the simulation of the project using Proteus 
+# This is the simulation of the projet using Proteus 
 ## Circuit
 circuit one (![image](https://github.com/user-attachments/assets/88b947f7-30fd-44ac-ace8-2ae5f2b8205e)
 )

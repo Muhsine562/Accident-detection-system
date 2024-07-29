@@ -50,7 +50,7 @@ An accident detection system aims to enhance the safety of transportation by det
 
 # This is the simulation of the project using Proteus 
 ## Circuit
-circuit one (![image](https://github.com/user-attachments/assets/1cdb1569-d805-4dc6-a377-2cc7f10549a8)
+circuit one (![image](https://github.com/user-attachments/assets/88b947f7-30fd-44ac-ace8-2ae5f2b8205e)
 )
 
 

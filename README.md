@@ -57,3 +57,5 @@ circuit one (![image](https://github.com/user-attachments/assets/88b947f7-30fd-4
 In conclusion, the implementation of an accident detection system using components like Arduino Uno, GPS module, ultrasonic sensor, SIM900D, sounder, gas sensor, motor, LCD, IR obstacle sensor, and LED can profoundly impact society by enhancing transportation safety, improving emergency response times, and contributing to overall public health and safety.
 
 
+# Files of circuit and code 
+we upload the files separately and in zip also

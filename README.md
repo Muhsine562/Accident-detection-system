@@ -19,6 +19,8 @@ An accident detection system aims to enhance the safety of transportation by det
 - ![image](https://github.com/user-attachments/assets/97d3ccf8-91d7-4522-98f8-85fbfba0925c)
 
 - **Gas Sensor**: Detects the presence of gas leaks, such as fuel vapors, which are common in vehicular accidents.
+- ![image](https://github.com/user-attachments/assets/bc200edb-5691-4b0c-86a0-a8f2f8f76710)
+
 - **Motor**: Can be used to trigger safety mechanisms like automatic braking or deploying safety barriers.
 - **LCD**: Displays vital information, such as the status of the system, sensor readings, and alerts.
 - **IR Obstacle Sensor**: Detects obstacles in the immediate vicinity, helping to prevent collisions.

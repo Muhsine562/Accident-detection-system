@@ -23,6 +23,8 @@ An accident detection system aims to enhance the safety of transportation by det
 
 - **Motor**: Can be used to trigger safety mechanisms like automatic braking or deploying safety barriers.
 - **LCD**: Displays vital information, such as the status of the system, sensor readings, and alerts.
+- ![Uploading image.png…]()
+
 - **IR Obstacle Sensor**: Detects obstacles in the immediate vicinity, helping to prevent collisions.
 - **LED**: Provides visual alerts and indicates the operational status of the system.
 

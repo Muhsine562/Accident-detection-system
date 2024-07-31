@@ -16,6 +16,8 @@ An accident detection system aims to enhance the safety of transportation by det
 - ![image](https://github.com/user-attachments/assets/28b15838-5991-4d5d-9b84-6f1bdfc60e8b)
 
 - **Sounder (Buzzer)**: Emits a loud sound to alert nearby people and vehicles of an accident.
+- ![image](https://github.com/user-attachments/assets/97d3ccf8-91d7-4522-98f8-85fbfba0925c)
+
 - **Gas Sensor**: Detects the presence of gas leaks, such as fuel vapors, which are common in vehicular accidents.
 - **Motor**: Can be used to trigger safety mechanisms like automatic braking or deploying safety barriers.
 - **LCD**: Displays vital information, such as the status of the system, sensor readings, and alerts.

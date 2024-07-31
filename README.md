@@ -7,6 +7,8 @@ An accident detection system aims to enhance the safety of transportation by det
 - ![image](https://github.com/user-attachments/assets/d8748d0f-6dcb-4b1c-b8a8-7784cf7d5f73)
 
 - **GPS Module**: Provides real-time location data, crucial for pinpointing the accident's exact location.
+- ![image](https://github.com/user-attachments/assets/df930a57-b2a6-40cb-9baf-7c26fa61091e)
+
 - **Ultrasonic Sensor**: Detects obstacles and measures the distance between vehicles and potential hazards.
 - **SIM900D Module**: A GSM module used to send SMS alerts to emergency services and predefined contacts in the event of an accident.
 - **Sounder (Buzzer)**: Emits a loud sound to alert nearby people and vehicles of an accident.

@@ -4,6 +4,8 @@ Avoiding accident and emergency intervention in real time
 An accident detection system aims to enhance the safety of transportation by detecting and responding to vehicular accidents in real-time. Utilizing various components, this system can identify collisions, alert emergency services, and inform nearby vehicles, potentially saving lives and reducing the severity of injuries. The primary components and their functions in this system include:
 
 - **Arduino Uno**: Acts as the central controller, processing data from various sensors and managing communication modules.
+- ![image](https://github.com/user-attachments/assets/d8748d0f-6dcb-4b1c-b8a8-7784cf7d5f73)
+
 - **GPS Module**: Provides real-time location data, crucial for pinpointing the accident's exact location.
 - **Ultrasonic Sensor**: Detects obstacles and measures the distance between vehicles and potential hazards.
 - **SIM900D Module**: A GSM module used to send SMS alerts to emergency services and predefined contacts in the event of an accident.

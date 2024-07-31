@@ -13,6 +13,8 @@ An accident detection system aims to enhance the safety of transportation by det
 - ![image](https://github.com/user-attachments/assets/dfe3b5de-c81f-4084-ad4a-e6657e1ab258)
 
 - **SIM900D Module**: A GSM module used to send SMS alerts to emergency services and predefined contacts in the event of an accident.
+- ![image](https://github.com/user-attachments/assets/28b15838-5991-4d5d-9b84-6f1bdfc60e8b)
+
 - **Sounder (Buzzer)**: Emits a loud sound to alert nearby people and vehicles of an accident.
 - **Gas Sensor**: Detects the presence of gas leaks, such as fuel vapors, which are common in vehicular accidents.
 - **Motor**: Can be used to trigger safety mechanisms like automatic braking or deploying safety barriers.

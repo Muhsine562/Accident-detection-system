@@ -26,6 +26,8 @@ An accident detection system aims to enhance the safety of transportation by det
 - ![image](https://github.com/user-attachments/assets/5a0d6962-60db-41e7-9edd-31c681544b04)
 
 - **IR Obstacle Sensor**: Detects obstacles in the immediate vicinity, helping to prevent collisions.
+- ![image](https://github.com/user-attachments/assets/618c9100-d9fd-4da2-b3f6-8a9a63eb233c)
+
 - **LED**: Provides visual alerts and indicates the operational status of the system.
 
 #### **Working Mechanism**
